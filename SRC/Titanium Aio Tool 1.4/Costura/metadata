@@ -1,0 +1,8 @@
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.discordrpc.dll.compressed|1.2.1.24|DiscordRPC, Version=1.2.1.24, Culture=neutral, PublicKeyToken=null|DiscordRPC.dll|4874CD51B0FA5652ED84E3B0C123BEE05DCDFFC8|83968
+costura.discordrpc.pdb.compressed|||DiscordRPC.pdb|447C1853EECA30637A94415F07CA7CD3E384746B|27868
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|7D0AD03FBDA1C24F883116B940717E596073AE96|701992
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+costura.system.security.accesscontrol.dll.compressed|4.1.3.0|System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.AccessControl.dll|8A3B1BD9DF5D052C24DE2304A2928FAD86927F6D|30792
+costura.system.security.principal.windows.dll.compressed|4.1.3.0|System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Principal.Windows.dll|2AED74577F5F623F7E910ADDA8EF74A11EEA0437|15224
